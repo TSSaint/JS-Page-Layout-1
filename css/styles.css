@@ -26,9 +26,14 @@ h1 {
   background-color: #0C73B8;
 }
 
+.skill-rand {
+  background-color: #2ecc71;
+}
+
 .skill-html,
 .skill-js,
-.skill-jquery {
+.skill-jquery,
+.skill-rand {
   width: 100%;
   padding: 1em 3em 2em 2em;
   margin: 0.5em;
