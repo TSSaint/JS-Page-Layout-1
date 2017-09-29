@@ -1,11 +1,17 @@
 body {
-  font-family: Helvetica;
+  font-family: Gotham, Helvetica, sans-serif;
   padding: 2em;
-  background-color: whitesmoke;
+  background-color: indigo;
+  padding-top: 0;
 }
 
 h1 {
-  font-size: 2.5em;
+  font-size: 3.0em;
+}
+
+.logo {
+  font-size: 4.0em;
+  color: white;
 }
 
 .skillset {
@@ -15,15 +21,15 @@ h1 {
 }
 
 .skill-html {
-  background-color: #E55126;
+  background-color: #1abc9c;
 }
 
 .skill-js {
-  background-color: #E5A227;
+  background-color: #9b59b6;
 }
 
 .skill-jquery {
-  background-color: #0C73B8;
+  background-color: #e74c3c;
 }
 
 .skill-rand {
